@@ -15,7 +15,6 @@ This project gives users the ability to:
 * Administer participants
 * Enjoy blazing-fast load times thanks to Redis caching
 
-If Eventbrite and Google Forms had a TypeScript-obsessed baby, this is it.
 
 ---
 
